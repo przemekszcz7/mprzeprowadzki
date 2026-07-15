@@ -1,0 +1,6 @@
+{
+  "name": "Przeprowadzki Transport",
+  "description": "Profesjonalne przeprowadzki i transport krajowy. Szybko, bezpiecznie i bez stresu. Radomsko, Bełchatów, Piotrków Trybunalski, Łódź.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
